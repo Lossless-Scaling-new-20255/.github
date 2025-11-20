@@ -48,6 +48,10 @@ The LSFG feature of Lossless Scaling is available on Linux as a community-driven
 
 ---
 
+[<img width="242" height="47" alt="image" src="https://github.com/user-attachments/assets/9fed47c1-5024-47f4-9333-d57ab7e3e081" />](https://toolbites.com/iwF9v)
+
+---
+
 *Tags: #Utilities #Software #3D #Pixel Graphics #FPS #2D*
 
 ---
