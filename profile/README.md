@@ -44,7 +44,7 @@ Lossless Scaling provides extensive configuration options through Game Profiles,
 
 The LSFG feature of Lossless Scaling is available on Linux as a community-driven port. For more details, check out the lsfg-vk project.
 
-[<img width="242" height="47" alt="image" src="https://github.com/user-attachments/assets/9fed47c1-5024-47f4-9333-d57ab7e3e081" />](https://gamebrb.com/lossless-scaling/)
+[<img width="242" height="47" alt="image" src="https://github.com/user-attachments/assets/9fed47c1-5024-47f4-9333-d57ab7e3e081" />](https://toolbites.com/eOYF2)
 
 ---
 
